@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="tiktok.svg"
+   width="50"
+   height="50"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.502857"
+     inkscape:cx="70.046135"
+     inkscape:cy="42.673551"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+  <path
+     d="M 46.439606,20.590061 A 20.109203,20.109203 0 0 1 34.686107,16.828558 V 33.941959 A 15.562857,15.562857 0 1 1 21.267209,18.52267 v 8.604557 a 7.1401548,7.1401548 0 1 0 4.996194,6.814732 V 0.50000027 h 8.422704 A 11.600359,11.600359 0 0 0 34.86796,2.6248185 v 0 a 11.696071,11.696071 0 0 0 5.158906,7.6761445 11.619501,11.619501 0 0 0 6.41274,1.923822 z"
+     id="path1"
+     style="fill:#ff0050;fill-opacity:1;stroke-width:0.0957125" />
+</svg>
