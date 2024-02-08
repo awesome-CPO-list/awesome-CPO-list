@@ -3,9 +3,11 @@
 
 <img src="/img/logo.svg" align="center" width="500" alt="Awesome CPO list">
 
-The list aims to provide a one-stop overview of CPO per country. Why this list? As a driver of a BEV you may end up in a country where you can't roam with your e-Mobility Service Provider (e-MSP). In this case, this list will help you out. What's different compared to platforms like [PlugShare](https://www.plugshare.com/). This list will guide you to the important information. Like name, provided app, plugs  
+The list aims to provide a one-stop overview of CPO per country. Why this list? As a driver of a BEV you may end up in a country where you can't roam with your e-Mobility Service Provider (e-MSP). In this case, this list will help you out. What's different compared to platforms like [PlugShare](https://www.plugshare.com/). This list will guide you to the important information. Like name, provided app, plugs types, not where the chargeres are located.   
 
 Feel free to add any missing CPO to the list!
+
+---
 
 ## Europe
 
